@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Siana\\ProjectDumbPasswordGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88BC357C-8623-4411-84A8-5182D9079B1D}|Dumb Password Generator\\Dumb Password Generator.csproj|c:\\users\\lenovo\\desktop\\siana\\projectdumbpasswordgenerator\\dumb password generator\\view\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BC357C-8623-4411-84A8-5182D9079B1D}|Dumb Password Generator\\Dumb Password Generator.csproj|solutionrelative:dumb password generator\\view\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BC357C-8623-4411-84A8-5182D9079B1D}|Dumb Password Generator\\Dumb Password Generator.csproj|c:\\users\\lenovo\\desktop\\siana\\projectdumbpasswordgenerator\\dumb password generator\\controller\\stupidpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BC357C-8623-4411-84A8-5182D9079B1D}|Dumb Password Generator\\Dumb Password Generator.csproj|solutionrelative:dumb password generator\\controller\\stupidpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BC357C-8623-4411-84A8-5182D9079B1D}|Dumb Password Generator\\Dumb Password Generator.csproj|c:\\users\\lenovo\\desktop\\siana\\projectdumbpasswordgenerator\\dumb password generator\\model\\stupidpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BC357C-8623-4411-84A8-5182D9079B1D}|Dumb Password Generator\\Dumb Password Generator.csproj|solutionrelative:dumb password generator\\model\\stupidpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BC357C-8623-4411-84A8-5182D9079B1D}|Dumb Password Generator\\Dumb Password Generator.csproj|c:\\users\\lenovo\\desktop\\siana\\projectdumbpasswordgenerator\\dumb password generator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BC357C-8623-4411-84A8-5182D9079B1D}|Dumb Password Generator\\Dumb Password Generator.csproj|solutionrelative:dumb password generator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StupidPasswordController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\ProjectDumbPasswordGenerator\\Dumb Password Generator\\Controller\\StupidPasswordController.cs",
+              "RelativeDocumentMoniker": "Dumb Password Generator\\Controller\\StupidPasswordController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\ProjectDumbPasswordGenerator\\Dumb Password Generator\\Controller\\StupidPasswordController.cs",
+              "RelativeToolTip": "Dumb Password Generator\\Controller\\StupidPasswordController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:54:28.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Display.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\ProjectDumbPasswordGenerator\\Dumb Password Generator\\View\\Display.cs",
+              "RelativeDocumentMoniker": "Dumb Password Generator\\View\\Display.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\ProjectDumbPasswordGenerator\\Dumb Password Generator\\View\\Display.cs",
+              "RelativeToolTip": "Dumb Password Generator\\View\\Display.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:38:26.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StupidPassword.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\ProjectDumbPasswordGenerator\\Dumb Password Generator\\Model\\StupidPassword.cs",
+              "RelativeDocumentMoniker": "Dumb Password Generator\\Model\\StupidPassword.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\ProjectDumbPasswordGenerator\\Dumb Password Generator\\Model\\StupidPassword.cs",
+              "RelativeToolTip": "Dumb Password Generator\\Model\\StupidPassword.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:35:41.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\ProjectDumbPasswordGenerator\\Dumb Password Generator\\Program.cs",
+              "RelativeDocumentMoniker": "Dumb Password Generator\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\ProjectDumbPasswordGenerator\\Dumb Password Generator\\Program.cs",
+              "RelativeToolTip": "Dumb Password Generator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:33:58.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
